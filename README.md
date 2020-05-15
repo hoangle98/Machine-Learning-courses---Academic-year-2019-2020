@@ -1,1 +1,1 @@
-# Machine-Learning-courses---Academic-year-2019-2020
+# Machine Learning - Academic year 2019-2020
